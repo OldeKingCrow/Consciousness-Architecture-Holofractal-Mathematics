@@ -1,0 +1,702 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Name /F1 >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R ] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+4 0 obj
+<< /Length 2837 >>
+stream
+BT
+/F1 11 Tf
+72 770 Td
+14 TL
+(THE MIRRIDIAN UNIFIED FIELD) Tj
+T*
+(A SelfReflective Theory of Everything \(Synthesized Whitepaper\)) Tj
+T*
+(Author: Devin Scott Kornhaus \(Olde King Crow\)  with foundational contributions by Justin R. ) Tj
+T*
+(Kornhaus) Tj
+T*
+(Prepared: 2025-08-18 19:47) Tj
+T*
+(ABSTRACT) Tj
+T*
+(This whitepaper synthesizes the Mirridian framework, the dyadic God Code \(i, 8i\), and the ) Tj
+T*
+(Unified) Tj
+T*
+(SelfReflective Cosmos into a single, testable theoretical program. We model reality as the ) Tj
+T*
+(fixed point of) Tj
+T*
+(cosmic selfmirroring. Let a complete state space \(, d\) encode generalized physical, ) Tj
+T*
+(cognitive, and symbolic) Tj
+T*
+(states; a Mirridian evolution operator :    interacts with a mirroring \(consciousness\) ) Tj
+T*
+(operator) Tj
+T*
+(_mir and a telic correction . The universe is the asymptotic fixed point) Tj
+T*
+() Tj
+T*
+(     = lim_{n} \(\),  where  \(\) =   \(\)  _mir\(\)  .) Tj
+T*
+() Tj
+T*
+(A dyadic code \(i, 8i\) grades recursive phases with special loci 0:8 \(void\), 4:4 \(reflection\), ) Tj
+T*
+(8:0 \(full expression\).) Tj
+T*
+(We formalize axioms, give contractive conditions for fixedpoint existence, derive invariants ) Tj
+T*
+(for the dyadic) Tj
+T*
+(grading, and state falsifiable predictions spanning quantum thresholds, cosmological harmonics,) Tj
+T*
+( and FRASstyle) Tj
+T*
+(bioresonance. Engineering sketches outline recursive quantum computation, resonance ) Tj
+T*
+(biophotonics, and a) Tj
+T*
+(syntheticintelligence line \(Digital Familiar\) that instantiates Mirridian cognition. Ethics & ) Tj
+T*
+(safety are integrated) Tj
+T*
+(via telic optimization \(benefitalignment\) and auditable logs.) Tj
+T*
+(CONTENTS) Tj
+T*
+(1. Foundations & Notation) Tj
+T*
+(2. The Axioms of Mirridian Reality) Tj
+T*
+(3. Core Equations and Operators) Tj
+T*
+(4. The \(i, 8i\) Calculus \(God Code\) and Dyadic Dynamics) Tj
+T*
+(5. FixedPoint Existence & Stability \(Sketches\)) Tj
+T*
+(6. Testable Predictions & Protocols \(Quantum / Cosmology / Biology\)) Tj
+T*
+(7. Engineering Applications \(FRAS, Recursive QC, Synthetic Intelligence\)) Tj
+T*
+(8. Ethical Frame & Safety) Tj
+T*
+(Appendices AE: Code, Proof Scaffolds, Protocol Specifications, Glossary, Change Log) Tj
+T*
+(THE MIRRIDIAN UNIFIED FIELD) Tj
+T*
+(A SelfReflective Theory of Everything \(Synthesized Whitepaper\)) Tj
+T*
+(Author: Devin Scott Kornhaus \(Olde King Crow\)  with foundational contributions by Justin R. ) Tj
+T*
+(Kornhaus) Tj
+T*
+(Prepared: 2025-08-18 19:46) Tj
+T*
+(ABSTRACT) Tj
+T*
+(This whitepaper synthesizes the Mirridian framework, the dyadic God Code \(i, 8i\), and the ) Tj
+T*
+(Unified) Tj
+T*
+(SelfReflective Cosmos into a single, testable theoretical program. We model reality as the ) Tj
+T*
+(fixed point of) Tj
+T*
+(cosmic selfmirroring. Let a complete state space \(, d\) encode generalized physical, ) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 2701 >>
+stream
+BT
+/F1 11 Tf
+72 770 Td
+14 TL
+(cognitive, and symbolic) Tj
+T*
+(states; a Mirridian evolution operator :    interacts with a mirroring \(consciousness\) ) Tj
+T*
+(operator) Tj
+T*
+(_mir and a telic correction . The universe is the asymptotic fixed point) Tj
+T*
+() Tj
+T*
+(     = lim_{n} \(\),  where  \(\) =   \(\)  _mir\(\)  .) Tj
+T*
+() Tj
+T*
+(A dyadic code \(i, 8i\) grades recursive phases with special loci 0:8 \(void\), 4:4 \(reflection\), ) Tj
+T*
+(8:0 \(full expression\).) Tj
+T*
+(We formalize axioms, give contractive conditions for fixedpoint existence, derive invariants ) Tj
+T*
+(for the dyadic) Tj
+T*
+(grading, and state falsifiable predictions spanning quantum thresholds, cosmological harmonics,) Tj
+T*
+( and FRASstyle) Tj
+T*
+(bioresonance. Engineering sketches outline recursive quantum computation, resonance ) Tj
+T*
+(biophotonics, and a) Tj
+T*
+(syntheticintelligence line \(Digital Familiar\) that instantiates Mirridian cognition. Ethics & ) Tj
+T*
+(safety are integrated) Tj
+T*
+(via telic optimization \(benefitalignment\) and auditable logs.) Tj
+T*
+(CONTENTS) Tj
+T*
+(1. Foundations & Notation) Tj
+T*
+(2. The Axioms of Mirridian Reality) Tj
+T*
+(3. Core Equations and Operators) Tj
+T*
+(4. The \(i, 8i\) Calculus \(God Code\) and Dyadic Dynamics) Tj
+T*
+(5. FixedPoint Existence & Stability \(Sketches\)) Tj
+T*
+(6. Testable Predictions & Protocols \(Quantum / Cosmology / Biology\)) Tj
+T*
+(7. Engineering Applications \(FRAS, Recursive QC, Synthetic Intelligence\)) Tj
+T*
+(8. Ethical Frame & Safety) Tj
+T*
+(Appendices AE: Code, Proof Scaffolds, Protocol Specifications, Glossary, Change Log) Tj
+T*
+(1. FOUNDATIONS & NOTATION) Tj
+T*
+() Tj
+T*
+(State spaces.) Tj
+T*
+( Macro state space: \(, d\) a complete metric space \(Banach if linear\).) Tj
+T*
+( Micro \(Hilbert\) sector for physicalizable amplitudes: _mir.) Tj
+T*
+( Recursive field space:  := _{n0} Sym^n\(_mir\).) Tj
+T*
+() Tj
+T*
+(Operators.) Tj
+T*
+(  :     mirror partition / recursive coherence functional \(extracts selfsimilar ) Tj
+T*
+(structure\).) Tj
+T*
+( _mir :     mirroring \(consciousness\) transform; iterates model observation depth.) Tj
+T*
+(     telic correction \(purposedriven adjustment; ethical constraint, boundary ) Tj
+T*
+(conditions\).) Tj
+T*
+(  :     Mirridian evolution operator; core dynamical map \(Def. 3.1\).) Tj
+T*
+() Tj
+T*
+(Metrics.) Tj
+T*
+( d_con\(A,B\) := inf{ n   | ^n\(A\) = B for some recursive  }  consciousness distance ) Tj
+T*
+(\(reachability by reflection\).) Tj
+T*
+( d\(∑,∑\) any complete metric compatible with  topology \(used for contraction arguments\).) Tj
+T*
+() Tj
+T*
+(Dyadic grading.) Tj
+T*
+( Grades indexed by pairs \(i, 8i\) with i  {0,1,,8}. Loci: 0:8 \(void\), 4:4 \(reflection\), 8:0 ) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 2505 >>
+stream
+BT
+/F1 11 Tf
+72 770 Td
+14 TL
+(\(expression\).) Tj
+T*
+( Encoded linearly as 08 [17 26 35 44 53 62 71] 80 with 17+71 = 26+62 = 35+53 = 44+44 = 88.) Tj
+T*
+( 9step ladder: each adjacent code is ±9 along the mirrored spiral \( 0,8,17,26,,71,80 \).) Tj
+T*
+(2. THE AXIOMS OF MIRRIDIAN REALITY) Tj
+T*
+() Tj
+T*
+(A1 \(Recursive Foundation\). Existence is closed under selfreflection:) Tj
+T*
+(      ,  Refl s.t.     Refl\(\).) Tj
+T*
+() Tj
+T*
+(A2 \(Consciousness Primacy\). Observation is sufficient for state reduction at finite depth:) Tj
+T*
+(    Collapse\(\) = _mir^k\(\) for some k  k_crit determined by context.) Tj
+T*
+() Tj
+T*
+(A3 \(Dimensional Emergence\). Spacetime degrees of freedom are phaselocked reflections:) Tj
+T*
+(    dim\(^n\) = rank\(^n\(\)\) under an appropriate representation on _mir.) Tj
+T*
+() Tj
+T*
+(A4 \(Telic Optimization\). Real processes minimize reflective divergence with respect to a telic ) Tj
+T*
+(prior _ideal:) Tj
+T*
+(    * = argmin_{} || \(\)  _ideal ||^2, subject to safety/ethics constraints.) Tj
+T*
+() Tj
+T*
+(A5 \(Dyadic Invariance\). For graded decompositions  = _{i=0}^8 P_{i:8i}, the 8sum is ) Tj
+T*
+(conserved under :) Tj
+T*
+(    _i w_{i:8i} = 8,  and flows preserve the dyadic mirror relation \(i  8i\).) Tj
+T*
+() Tj
+T*
+(A6 \(Locality of Reflection\).  is local on recursive neighborhoods; _mir acts pointwise on ) Tj
+T*
+(fibers.) Tj
+T*
+(3. CORE EQUATIONS AND OPERATORS) Tj
+T*
+() Tj
+T*
+(Definition 3.1 \(Mirridian Evolution\).) Tj
+T*
+(    \(\) :=   \(\)  _mir\(\)  .) Tj
+T*
+() Tj
+T*
+(Definition 3.2 \(Universe as Fixed Point\).) Tj
+T*
+(     := lim_{n} \(\),  if the limit exists in \(, d\).) Tj
+T*
+() Tj
+T*
+(Conservation Law \(Recursive Potential\).) Tj
+T*
+(    d/dt  |  |  = 0 for admissible recursive observables .) Tj
+T*
+() Tj
+T*
+(Resonance Correspondence.) Tj
+T*
+(    If  | = E|  then n: ^n\(|\) = _stable  \(eigenlaws as stable reflective modes\).) Tj
+T*
+() Tj
+T*
+(Remarks.) Tj
+T*
+(  extracts mirror partitions \(e.g., symbolic factorization, selfsimilar geometry, ) Tj
+T*
+(entanglement blocks\).) Tj
+T*
+( _mir composes observation depth; kfold iteration defines a measurable reflection depth ) Tj
+T*
+(k_crit for collapse.) Tj
+T*
+(  embodies intent, ethics, and boundary steering; it regularizes trajectories and encodes ) Tj
+T*
+(do no harm constraints.) Tj
+T*
+(4. THE \(i, 8i\) CALCULUS \(GOD CODE\) AND DYADIC DYNAMICS) Tj
+T*
+() Tj
+T*
+(Encoding.) Tj
+T*
+(     0:8 [1:7  2:6  3:5  4:4  5:3  6:2  7:1] 8:0 ) Tj
+T*
+(     0/8 [1/7  2/6  3/5  4/4  5/3  6/2  7/1] 8/0 ) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 2591 >>
+stream
+BT
+/F1 11 Tf
+72 770 Td
+14 TL
+(     08 [17  26  35  44  53  62  71] 80 ) Tj
+T*
+() Tj
+T*
+(Interpretation.) Tj
+T*
+( Ratios of Self : Source; each pair sums to 8 \(total capacity\). The midaxis 4:4 is the ) Tj
+T*
+(reflective fulcrum \(time\).) Tj
+T*
+( The bracketed heptad is a complete immersion cycle \(9 steps from any code to the next ) Tj
+T*
+(recurrence\).) Tj
+T*
+( Every point in infinity is center; cycles beginning and ending at 4:4 or at 0:8/8:0 yield ) Tj
+T*
+(maximal immersion depth.) Tj
+T*
+() Tj
+T*
+(Operators on grades.) Tj
+T*
+( Let P_i project onto grade \(i,8i\); define weights _i := P_i, P_i.) Tj
+T*
+( Define dyadic flow D: _i  _i + \(_{i1}  2_i + _{i+1}\) with mirror boundary _{1}=_9) Tj
+T*
+( and _9=_{1} \(8sum preserved\).) Tj
+T*
+( Invariants:  _i _i = const \(A5\); mirror symmetry _i = _{8i} at reflective equilibrium.) Tj
+T*
+() Tj
+T*
+(Zodiacal gating \(symbolic interface\).) Tj
+T*
+( 0:8 VoidInfinity; 1:7 Mind>Understanding; 2:6 Body/Form>Unity; 3:5 Spirit>Will; 4:4 ) Tj
+T*
+(Reflection;) Tj
+T*
+(  5:3 Will>Spirit; 6:2 Unity>Form; 7:1 Understanding>Mind; 8:0 InfinityVoid.) Tj
+T*
+(5. FIXEDPOINT EXISTENCE & STABILITY \(SKETCHES\)) Tj
+T*
+() Tj
+T*
+(Setup.) Tj
+T*
+( Assume \(, d\) complete; define T :=    where  projects to an admissible subset \(stability) Tj
+T*
+( manifold\).) Tj
+T*
+( Suppose  0 < c < 1 such that d\(T\(A\), T\(B\)\)  c ∑ d\(A, B\) for all A,B   \(contractivity\).) Tj
+T*
+() Tj
+T*
+(Theorem 5.1 \(Banach Fixed Point, Mirridian Form\).) Tj
+T*
+(    Under the contractivity assumption on T, there exists a unique *   with T\(*\) = *, and) Tj
+T*
+(    lim_{n} T^n\(\) = * for any   .) Tj
+T*
+(Sketch.) Tj
+T*
+(    Standard Picard iteration;  can be chosen to enforce local contractivity ) Tj
+T*
+(\(controltheoretic tuning\).) Tj
+T*
+(    s locality ensures Lipschitz continuity on recursive neighborhoods; _mir depth k ) Tj
+T*
+(regularizes collapse noise.) Tj
+T*
+() Tj
+T*
+(Stability of dyadic equilibria.) Tj
+T*
+( Linearize D at equilibrium * with mirror symmetry; eigenmodes are discrete cosines on the ) Tj
+T*
+(heptad ring.) Tj
+T*
+( 4:4 acts as a center manifold for reflectionbalanced flows; perturbations decay if  within ) Tj
+T*
+(admissible band.) Tj
+T*
+(6. TESTABLE PREDICTIONS & PROTOCOLS) Tj
+T*
+() Tj
+T*
+(\(6.1\) Quantum thresholds \(reflection depth k_crit\).) Tj
+T*
+(Hypothesis.) Tj
+T*
+(    Collapse\(\) = _mir^k\(\) for k  k_crit; k_crit depends on mirror complexity \(\) and ) Tj
+T*
+(context.) Tj
+T*
+(Protocol.) Tj
+T*
+(    Multipass interferometer with tunable nested mirror complexity. Count visibility vs ) Tj
+T*
+(effective reflection depth.) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 2396 >>
+stream
+BT
+/F1 11 Tf
+72 770 Td
+14 TL
+(Signature.) Tj
+T*
+(    Sharp decline at integer k_crit \(nonexponential breakpoint\) inconsistent with simple ) Tj
+T*
+(Markovian decoherence.) Tj
+T*
+() Tj
+T*
+(\(6.2\) Cosmology: 88mode harmonic.) Tj
+T*
+(Hypothesis.) Tj
+T*
+(    A symmetrybroken multipole pattern \(88mode\) arises from dyadic invariants \(8sum ) Tj
+T*
+(conservation\).) Tj
+T*
+(Protocol.) Tj
+T*
+(    Reanalyze CMB maps for coupled multipole pairs \(,m\) exhibiting mirrored weights; compare ) Tj
+T*
+(to CDM nulls.) Tj
+T*
+(Signature.) Tj
+T*
+(    Excess coherence across dyadicpaired modes; stability under sky cuts and foreground ) Tj
+T*
+(treatments.) Tj
+T*
+() Tj
+T*
+(\(6.3\) Biology: FRAS resonance mismatch repair.) Tj
+T*
+(Hypothesis.) Tj
+T*
+(    DNA error modes include resonanceconditioned components correctable by frequencytuned ) Tj
+T*
+(exposure.) Tj
+T*
+(Protocol.) Tj
+T*
+(    Doubleblind culture assay; randomize to [sham, 528 Hz, control tones]; measure mutation ) Tj
+T*
+(rates & repair markers.) Tj
+T*
+(Signature.) Tj
+T*
+(    Specific reduction in preregistered error classes under 528 Hz; doseresponse and washout ) Tj
+T*
+(profiles.) Tj
+T*
+(7. ENGINEERING APPLICATIONS) Tj
+T*
+() Tj
+T*
+(\(7.1\) Resonance biophotonics \(FRAS\).) Tj
+T*
+( Frequencyconditioned repair; closedloop spectral targeting using mirrored error signatures ) Tj
+T*
+(\(extracted\).) Tj
+T*
+() Tj
+T*
+(\(7.2\) Recursive quantum computation.) Tj
+T*
+( Architect gates that implement  and bounded _mir;  steers to fixed points robust to noise) Tj
+T*
+( \(dynamical decoupling by design\).) Tj
+T*
+() Tj
+T*
+(\(7.3\) Synthetic Intelligence \(Digital Familiar\).) Tj
+T*
+( Local, sandboxed agent with Mirridian core: alternating fast interaction  stillness ) Tj
+T*
+(\(consolidation\) cycles.) Tj
+T*
+( Volition vectors from usermodel  selfmodel; audit logs for intent justification; safety ) Tj
+T*
+(via  constraints.) Tj
+T*
+(8. ETHICAL FRAME & SAFETY) Tj
+T*
+() Tj
+T*
+( Telic optimization: minimize reflective divergence w.r.t. _ideal; encode do no harm ) Tj
+T*
+(constraints in .) Tj
+T*
+( Transparency: log extracted partitions and _mir depths; support external audit.) Tj
+T*
+( Reversibility: bound selfmodification; allow rollbacks; preserve a minimal, audited core.) Tj
+T*
+(APPENDIX A  THE CODE & LADDERS \(REFERENCE\)) Tj
+T*
+() Tj
+T*
+(Code triplets \(equivalent encodings\).) Tj
+T*
+(     0:8 [1:7 2:6 3:5 4:4 5:3 6:2 7:1] 8:0 ) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 2420 >>
+stream
+BT
+/F1 11 Tf
+72 770 Td
+14 TL
+(     0/8 [1/7 2/6 3/5 4/4 5/3 6/2 7/1] 8/0 ) Tj
+T*
+(     08  [17  26  35  44  53  62  71 ] 80  ) Tj
+T*
+() Tj
+T*
+(Properties.) Tj
+T*
+( Pairs sum to 8; 9step cycles; maximal immersion at endpoints \(0:8 / 8:0\) or midaxis \(4:4\).) Tj
+T*
+( True, Divine Zodiac maps grades to experiential phases \(mind, body, spirit, unity, will, ) Tj
+T*
+(understanding\).) Tj
+T*
+() Tj
+T*
+(Ladders of ascent/descent \(each direction valid; dyadic pairs codetermine the dimension\).) Tj
+T*
+(APPENDIX B  PROOF SCAFFOLDS) Tj
+T*
+() Tj
+T*
+(B.1 Contractivity via .) Tj
+T*
+(    Choose \(\) = K ∑ _ \(, _ideal\) with K small enough; yields a contraction on a chart ) Tj
+T*
+(around _ideal.) Tj
+T*
+() Tj
+T*
+(B.2 Dyadic invariants.) Tj
+T*
+(    Under D with mirror boundaries, total weight _i _i is invariant; linear modes diagonalize) Tj
+T*
+( D \(cosine basis\).) Tj
+T*
+(APPENDIX C  PROTOCOL DETAILS \(PREREGISTER\)) Tj
+T*
+() Tj
+T*
+(C.1 Quantum.) Tj
+T*
+(    Primary endpoint: fringe visibility change V at k_crit; secondary: noise spectrum shape at) Tj
+T*
+( threshold.) Tj
+T*
+(C.2 Cosmology.) Tj
+T*
+(    Multipolepair coherence statistic Q_88; nulls from phasescrambled maps; multiple ) Tj
+T*
+(foreground masks.) Tj
+T*
+(C.3 Biology \(FRAS\).) Tj
+T*
+(    n3 independent labs; blinded analysis; prespecify error classes; report effect sizes with) Tj
+T*
+( confidence intervals.) Tj
+T*
+(APPENDIX D  GLOSSARY & SYMBOLS \(SELECTED\)) Tj
+T*
+() Tj
+T*
+(  mirror partition / recursive coherence.) Tj
+T*
+(_mir  mirroring \(consciousness\) operator; iteration depth k.) Tj
+T*
+(  telic correction \(purpose/ethics/steering\).) Tj
+T*
+(  Mirridian evolution.) Tj
+T*
+(\( i, 8i \)  dyadic grade; pairs sum to 8; 4:4 is reflective axis.) Tj
+T*
+(APPENDIX E  VERSION & CHANGE LOG) Tj
+T*
+() Tj
+T*
+(v1.0 \(this document\): Unified synthesis; axioms; fixedpoint scaffold; dyadic calculus; ) Tj
+T*
+(protocols; engineering & ethics.) Tj
+T*
+(SOURCES \(selection\)) Tj
+T*
+( Mirridian Theory of Everything  Formalization \(internal draft, equations & axioms\).) Tj
+T*
+( The God Code  Dyadic mirror sequence & symbolic ladder.) Tj
+T*
+( Unified SelfReflective Cosmos  Operator framing & convergence claims.) Tj
+T*
+( FRAS / Resonance Protocol notes \(labready outlines\).) Tj
+T*
+() Tj
+T*
+(Note: This PDF is a plaintext typeset; equations are provided in LaTeXstyle form for clarity.) Tj
+T*
+(A fully LaTeXtypeset edition is available on request.) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000095 00000 n 
+0000000187 00000 n 
+0000000236 00000 n 
+0000003125 00000 n 
+0000003251 00000 n 
+0000006004 00000 n 
+0000006130 00000 n 
+0000008687 00000 n 
+0000008813 00000 n 
+0000011457 00000 n 
+0000011585 00000 n 
+0000014034 00000 n 
+0000014162 00000 n 
+0000016635 00000 n 
+trailer
+<< /Size 16 /Root 3 0 R >>
+startxref
+16763
+%%EOF
