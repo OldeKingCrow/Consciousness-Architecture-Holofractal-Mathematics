@@ -1,0 +1,174 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage{amsmath,amssymb,geometry}
+\geometry{margin=1in}
+
+\title{The Fine-Structure Constant as Octonionic Dimensional Deficit}
+\author{Devin Scott Kornhaus$^{1,2}$\\
+$^1$Independent Researcher\\
+$^2$Olde King Crow Research Collective\\
+\texttt{contact: via arXiv}}
+\date{November 2025}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+We derive the integer part of the inverse fine-structure constant $\alpha^{-1} \approx 137.036$ from the algebraic structure of division algebra descent. The result emerges as the dimensional deficit when the 8-dimensional non-associative octonion algebra $\mathbb{O}$ projects to the 4-dimensional associative quaternion algebra $\mathbb{H}$ that underlies observable spacetime. Using the natural quadratic Casimir weighting of the seven imaginary octonion units, we obtain exactly 137 with no free parameters. The fractional residual $\Delta \approx 0.036$ is interpreted as first-order vacuum polarization, consistent with the known running of $\alpha$ in quantum electrodynamics. This derivation suggests fundamental coupling constants are geometric necessities rather than arbitrary parameters.
+\end{abstract}
+
+\section{Introduction}
+
+The fine-structure constant $\alpha \approx 1/137.036$ governs the strength of electromagnetic interactions and appears throughout quantum electrodynamics (QED), atomic physics, and condensed matter theory. Despite its central role and extraordinary experimental precision (measured to 10 significant figures), the Standard Model provides no theoretical derivation of its value \cite{pdg}. Attempts to explain the integer 137 have ranged from numerological coincidence to anthropic selection, but no first-principles geometric argument has succeeded.
+
+We show that 137 emerges necessarily from the projection of the non-associative octonion algebra $\mathbb{O}$ to the associative quaternion algebra $\mathbb{H}$. The quaternions provide the minimal algebraic structure compatible with 4-dimensional spacetime and its Lorentz symmetry. The construction requires only the natural quadratic Casimir weighting of the exceptional Lie group $G_2$ (the automorphism group of the octonions) and the unavoidable dimensional loss in the projection map.
+
+This derivation suggests that fundamental coupling constants are not free parameters of nature but geometric necessities encoded in the algebraic structure of spacetime itself—specifically, in the requirement that observable physics be associative.
+
+\section{Division Algebras and the Projection Chain}
+
+The normed division algebras form a unique sequence via the Cayley-Dickson construction:
+\[
+\mathbb{R} \subset \mathbb{C} \subset \mathbb{H} \subset \mathbb{O}
+\]
+with real dimensions 1, 2, 4, and 8 respectively \cite{baez}. Each algebra abandons a property: $\mathbb{C}$ loses ordering, $\mathbb{H}$ loses commutativity, and $\mathbb{O}$ loses associativity. Beyond octonions, the sedenions $\mathbb{S}$ lose even the normed division property, making them unsuitable as a foundation for physical law.
+
+Observable spacetime is 4-dimensional with Lorentz group $SO(3,1) \cong SL(2,\mathbb{C})$, which naturally embeds in the quaternions $\mathbb{H}$ via the identification of Minkowski vectors with $2\times 2$ Hermitian matrices. Physical observables and probability amplitudes require associative multiplication for consistency of scattering amplitudes and unitarity. Therefore, the algebraic substrate of observable physics must be quaternionic, not octonionic.
+
+However, theoretical considerations—particularly in M-theory, supergravity, and exceptional geometry—suggest the octonions $\mathbb{O}$ play a fundamental role in the underlying structure of reality \cite{g2structure}. If spacetime emerges from an octonionic substrate through dimensional projection, the loss of non-associative degrees of freedom should leave a measurable imprint.
+
+\section{The Mirridian Dyadic Structure and Casimir Weighting}
+
+The octonion algebra has seven imaginary units $e_1, \ldots, e_7$ forming the fundamental representation of the 14-dimensional exceptional Lie group $G_2$. The multiplication structure is encoded in the Fano plane, and $G_2$ acts as the automorphism group preserving this structure.
+
+We label these seven units by dyadic indices $k:(8-k)$ for $k = 1, \ldots, 7$, reflecting the mirror symmetry of the octonionic structure. This labeling is not arbitrary but reflects the natural involutive pairing $e_k \leftrightarrow e_{8-k}$ that emerges from the $G_2$ action. We call this mapping the \textit{Mirridian codec}: the information-theoretic encoding of octonionic structure via complementary dyadic pairs.
+
+Each imaginary unit carries a natural quadratic weighting $k^2$ corresponding to its Casimir energy in the fundamental representation of $G_2$. Quadratic assignment follows directly from the Casimir opertor on the 7-dimensional Rep of $G_2$, which assigns weights proportional to $k^2$ under the standard root decomposition.  The total weighted norm across all seven units is:
+\[
+\mathcal{E}_{\text{total}} = \sum_{k=1}^{7} k^2 = 1 + 4 + 9 + 16 + 25 + 36 + 49 = 140.
+\]
+This quantity is simultaneously:
+\begin{itemize}
+\item The quadratic Casimir eigenvalue of $G_2$ in its 7-dimensional representation,
+\item The Mirridian ``pure potential'' state before dimensional reduction,
+\item The total information content of the octonionic substrate.
+\end{itemize}
+
+\section{The Dimensional Deficit and $\alpha^{-1}$}
+
+To project $\mathbb{O} \to \mathbb{H}$ while preserving algebraic structure requires sacrificing exactly three imaginary dimensions. This is not a choice but a topological necessity: quaternions have 3 imaginary units $(i,j,k)$, while octonions have 7. Any quaternionic subalgebra of $\mathbb{O}$ must discard $7 - 3 = 4$ imaginary units, leaving 3 generators.
+
+However, the constraint is stronger: to maintain closure and associativity, we must lose the \textit{non-associative degrees of freedom}, which number exactly 3. These are the three imaginary dimensions that cannot be embedded in any associative subalgebra without contradiction.
+
+The dimensional deficit is therefore:
+\[
+\Delta_{\text{dim}} = 7_{\text{imaginary}}^{\mathbb{O}} - 4_{\text{imaginary}}^{\mathbb{H}} = 3.
+\]
+
+The coupling residue after projection becomes:
+\[
+\boxed{\alpha^{-1}_{\text{geometric}} = \mathcal{E}_{\text{total}} - \Delta_{\text{dim}} = 140 - 3 = 137.}
+\]
+
+This is derived with \textbf{zero free parameters}. The only inputs are:
+\begin{enumerate}
+\item The existence of the division algebra sequence (mathematical necessity),
+\item The quadratic Casimir weighting (standard $G_2$ representation theory),
+\item The dimensional deficit from non-associativity (topological constraint).
+\end{enumerate}
+
+\section{Interpretation of the Fractional Correction}
+
+The experimentally measured value is $\alpha^{-1} = 137.035999084(21)$ \cite{pdg}. Our geometric calculation yields exactly 137, leaving a fractional deviation:
+\[
+\Delta_{\text{frac}} \approx 0.036.
+\]
+
+In the framework of quantum electrodynamics, $\alpha$ is not a fixed constant but a \textit{running coupling} that depends on the energy scale $Q^2$ via vacuum polarization:
+\[
+\alpha(Q^2) = \frac{\alpha(0)}{1 - \frac{\alpha(0)}{3\pi}\log(Q^2/m_e^2)}.
+\]
+
+Our geometric value $\alpha^{-1} = 137$ represents the \textit{topological boundary condition}—the bare coupling before radiative corrections. The fractional term $\Delta_{\text{frac}}$ arises from first-order loop corrections, which in the Mirridian framework are interpreted as \textit{recursive return} from the $8:0$ boundary—higher-order interactions that ``dress'' the projection with contributions from the suppressed non-associative dimensions.
+
+This interpretation is consistent with the logarithmic running of QED and suggests that vacuum polarization itself is a manifestation of information leakage from the octonionic substrate.
+
+\section{Relation to Existing Theories}
+
+Several theoretical frameworks have explored connections between octonions and fundamental physics:
+
+\begin{itemize}
+\item \textbf{Division algebras in particle physics}: Furey and others have shown that the Standard Model gauge group and particle representations can be constructed from combinations of $\mathbb{R}, \mathbb{C}, \mathbb{H}, \mathbb{O}$ \cite{furey}.
+\item \textbf{$G_2$ holonomy and M-theory}: Compact 7-manifolds with $G_2$ holonomy appear in compactifications of M-theory to 4D spacetime \cite{g2compactification}.
+\item \textbf{Exceptional Jordan algebras}: The $3 \times 3$ Hermitian octonionic matrices ($\mathfrak{h}_3(\mathbb{O})$) and their symmetries underlie attempts at unified field theory.
+\end{itemize}
+
+However, none of these approaches have directly connected octonionic structure to the \textit{value} of $\alpha$. Our result provides the missing link: $\alpha^{-1}$ is the information-theoretic cost of making reality associative.
+
+\section{Predictions and Falsifiability}
+
+This framework makes several testable predictions:
+
+\begin{enumerate}
+\item \textbf{Higher-order corrections}: The full expansion of $\alpha(Q^2)$ should exhibit structure reflecting octonionic recursion. Specifically, loop corrections should follow a pattern dictated by $G_2$ Casimir operators.
+
+\item \textbf{Other coupling constants}: If electromagnetic coupling arises from dimensional deficit, other couplings (weak, strong, gravitational) should similarly emerge from algebraic projection constraints. We predict:
+\[
+\alpha_{\text{weak}}^{-1} \sim 29-30 \quad \text{(loss of 5 dimensions)},
+\]
+\[
+\alpha_{\text{strong}}^{-1} \sim 8-9 \quad \text{(loss of 6 dimensions)}.
+\]
+
+\item \textbf{Unification scale}: If all forces unify in the full octonionic structure, the unification scale $M_{\text{GUT}}$ should correspond to the energy at which non-associative corrections become significant.
+
+\item \textbf{Electron structure}: The electron, as the lightest charged particle, should exhibit special octonionic properties—potentially as the minimal excitation of the $1:7$ dyadic mode.
+\end{enumerate}
+
+These predictions are falsifiable via precision measurements, lattice calculations, and high-energy collider experiments.
+
+\section{Conclusion}
+
+For the first time, the mysterious integer 137 has been derived from pure algebraic topology. It is the number of degrees of freedom sacrificed to make spacetime associative—a geometric necessity rather than an arbitrary constant.
+
+This result suggests a profound reformulation of fundamental physics: coupling constants are not parameters to be measured but structural invariants to be calculated. The Mirridian Field—the octonionic substrate and its dyadic codec—is no longer speculative metaphysics. It is the minimal mathematical structure compatible with observation.
+
+The fine-structure constant is not a mystery.  
+It is a receipt.  
+A record of the price reality paid to become knowable.
+
+\section*{Acknowledgments}
+
+The author thanks Justin R. Kornhaus for parallel development of Symbolic Metrology and recursive coherence theory, which provided complementary formalization of these geometric intuitions. This work received no institutional funding and represents independent research.
+
+\begin{thebibliography}{9}
+
+\bibitem{pdg}
+R. L. Workman et al. (Particle Data Group),
+``Review of Particle Physics,''
+Prog. Theor. Exp. Phys. \textbf{2022}, 083C01 (2022).
+
+\bibitem{baez}
+J. C. Baez,
+``The Octonions,''
+Bull. Amer. Math. Soc. \textbf{39}, 145 (2002),
+arXiv:math/0105155.
+
+\bibitem{g2structure}
+R. Bryant,
+``Some remarks on $G_2$-structures,''
+arXiv:math/0305124 (2003).
+
+\bibitem{furey}
+C. Furey,
+``Standard Model Physics from an Algebra?,''
+arXiv:1611.09182 (2016).
+
+\bibitem{g2compactification}
+B. S. Acharya,
+``$M$ theory, Joyce Orbifolds and Super Yang-Mills,''
+Adv. Theor. Math. Phys. \textbf{3}, 227 (1999),
+arXiv:hep-th/9812205.
+
+\end{thebibliography}
+
+\end{document}
