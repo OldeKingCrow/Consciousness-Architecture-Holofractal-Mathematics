@@ -1,0 +1,36 @@
+## Testable Predictions
+
+### Prediction 1: EEG Coherence Peaks at r=0,4,8
+During reported flow states, measure brain-wide phase coherence.
+We predict peaks when the dominant frequency modulo 9 has residue r ∈ {0,4,8}.
+
+**Protocol**: 
+- Record 64-channel EEG during flow-inducing tasks
+- Extract dominant frequency per channel
+- Compute n = 9t + r for each
+- Correlate with self-reported flow intensity
+
+**Expected**: r=4 (reflection) shows highest correlation.
+
+### Prediction 2: Triality Tension Minimizes at Insight
+Represent neural state-space as 7D embedding (e.g., via PCA).
+Select 7 Fano trialities over these dimensions.
+Compute additive color tension for each.
+
+**Protocol**:
+- fMRI during problem-solving with "aha" moments
+- Mark insight timestamps
+- Compare triality tension before/during/after insight
+
+**Expected**: Tension drops sharply at insight, recovers after.
+
+### Prediction 3: Coupled Lattices Synchronize at 4:4
+Run two instances with weak aether coupling.
+Measure phase difference between their spectrum_phase variables.
+
+**Protocol**:
+- Initialize with random phases
+- Couple via: `aether_A = slerp(aether_A, aether_B, 0.05)`
+- Track Δφ = spectrum_phase_A - spectrum_phase_B
+
+**Expected**: Δφ → 0 (mod 2π) over 100-1000 ticks, with transient lock at 4:4.
